@@ -2957,7 +2957,7 @@ const parent = /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
     /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
         id: "child"
     }, [
-        /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "This is namaste react"),
+        /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "This is namaste react \uD83D\uDE80\uD83D\uDE80"),
         /*#__PURE__*/ (0, _reactDefault.default).createElement("h2", {}, "sfrhz")
     ])
 ], /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {

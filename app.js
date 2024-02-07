@@ -9,7 +9,7 @@ const parent = React.createElement(
             "div",
             { id: "child" },
             [
-                React.createElement("h1", {}, "This is namaste react"),
+                React.createElement("h1", {}, "This is namaste react 🚀🚀"),
                 React.createElement("h2", {}, "sfrhz")
             ]
         )

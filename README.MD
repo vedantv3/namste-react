@@ -10,4 +10,11 @@
 -minification of file 
 -bundling
 -compress the file
-
+-consistent hashing 
+-code splitting
+-differential bundling-support older browser
+-diagnostic
+-error hnadling
+-https
+-tree shaking
+-different and prod bundles
